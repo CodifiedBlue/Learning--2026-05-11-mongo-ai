@@ -50,11 +50,10 @@ async function query12() {}
 // more queries
 async function runQueries() {
   // Uncomment the query you want to run
-  // await query1();
-  // await query2();
-  // await query3();
-  // await query4();
-  await query5();
+  await query1();
+  await query2();
+  await query3();
+  await query4();
 }
 
 async function main() {
