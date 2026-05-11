@@ -1,79 +1,162 @@
 [
   {
-    "_id": "64f301d4d4d4d4d4d4d4d4d4",
-    "title": "CI/CD tools comparison?",
-    "content": "What's your take on CircleCI vs GitHub Actions vs GitLab CI?",
-    "subreddit": "64f10b2b2b2b2b2b2b2b2b2b",
-    "author": "64f004d4d4d4d4d4d4d4d4d4",
-    "upvotes": 2,
-    "downvotes": 0,
-    "voteCount": 2,
-    "createdAt": "2024-03-05T10:30:00Z"
+    "title": "Best practices for Node.js async/await",
+    "content": "I've been working with Node.js for a while now and I'm curious about the best practices for handling async/await in production environments. What patterns do you all use?",
+    "authorIndex": 1,
+    "subredditIndex": 0,
+    "upvotes": 245,
+    "downvotes": 8
   },
   {
-    "_id": "64f302e5e5e5e5e5e5e5e5e5",
-    "title": "Design systems in Figma",
-    "content": "How do you organize components and tokens for scalability?",
-    "subreddit": "64f10c3c3c3c3c3c3c3c3c3c",
-    "author": "64f005e5e5e5e5e5e5e5e5e5",
-    "upvotes": 1,
-    "downvotes": 1,
-    "voteCount": 0,
-    "createdAt": "2025-03-10T14:15:00Z"
+    "title": "JavaScript frameworks comparison 2026",
+    "content": "With so many frameworks available, it's becoming harder to choose. React, Vue, Svelte, Angular - which one should I learn in 2026?",
+    "authorIndex": 3,
+    "subredditIndex": 0,
+    "upvotes": 189,
+    "downvotes": 12
   },
   {
-    "_id": "64f303f6f6f6f6f6f6f6f6f6",
-    "title": "Getting started with Go for backend",
-    "content": "Is Go a good alternative to Node.js for scalable backends?",
-    "subreddit": "64f10a1a1a1a1a1a1a1a1a1a",
-    "author": "64f006f6f6f6f6f6f6f6f6f6",
-    "upvotes": 0,
-    "downvotes": 2,
-    "voteCount": -2,
-    "createdAt": "2025-06-07T09:45:00Z"
+    "title": "Why Python is still king",
+    "content": "Despite competition from newer languages, Python remains the most versatile language for beginners and professionals alike.",
+    "authorIndex": 5,
+    "subredditIndex": 0,
+    "upvotes": 312,
+    "downvotes": 45
   },
   {
-    "_id": "64f304a7a7a7a7a7a7a7a7a7",
-    "title": "Best CSS-in-JS libraries?",
-    "content": "Is Emotion still relevant or has Tailwind taken over?",
-    "subreddit": "64f10d4d4d4d4d4d4d4d4d4d",
-    "author": "64f007a7a7a7a7a7a7a7a7a7",
-    "upvotes": 1,
-    "downvotes": 0,
-    "voteCount": 1,
-    "createdAt": "2025-05-15T16:20:00Z"
+    "title": "Breakthrough in quantum computing announced",
+    "content": "Scientists announce a major breakthrough in quantum error correction. This could accelerate the development of practical quantum computers.",
+    "authorIndex": 2,
+    "subredditIndex": 1,
+    "upvotes": 1250,
+    "downvotes": 34
   },
   {
-    "_id": "64f305b8b8b8b8b8b8b8b8b8",
-    "title": "Explain backpropagation",
-    "content": "Can someone explain backpropagation in plain English?",
-    "subreddit": "64f10e5e5e5e5e5e5e5e5e5e",
-    "author": "64f008b8b8b8b8b8b8b8b8b8",
-    "upvotes": 2,
-    "downvotes": 0,
-    "voteCount": 2,
-    "createdAt": "2024-11-13T11:00:00Z"
+    "title": "Global climate summit reaches agreement",
+    "content": "World leaders have reached a historic agreement on climate change mitigation. Details inside.",
+    "authorIndex": 4,
+    "subredditIndex": 1,
+    "upvotes": 892,
+    "downvotes": 156
   },
   {
-    "_id": "64f306c9c9c9c9c9c9c9c9c9",
-    "title": "Is GCP catching up to AWS?",
-    "content": "I feel GCP is making moves. Thoughts?",
-    "subreddit": "64f10f6f6f6f6f6f6f6f6f6f",
-    "author": "64f009c9c9c9c9c9c9c9c9c9",
-    "upvotes": 1,
-    "downvotes": 1,
-    "voteCount": 0,
-    "createdAt": "2024-01-22T13:30:00Z"
+    "title": "Latest AI model shows promising results",
+    "content": "A new AI model demonstrates capabilities that surpass previous benchmarks in natural language understanding and reasoning.",
+    "authorIndex": 0,
+    "subredditIndex": 2,
+    "upvotes": 765,
+    "downvotes": 89
   },
   {
-    "_id": "64f306c9c9c9c9c9c9c9eeee",
-    "title": "Azure vs AWS",
-    "content": "I feel Azure is better for enterprise deployments. What are your thoughts?",
-    "subreddit": "64f10f6f6f6f6f6f6f6f6f6f",
-    "author": "64f009c9c9c9c9c9c9c9c9c9",
-    "upvotes": 1,
-    "downvotes": 1,
-    "voteCount": 0,
-    "createdAt": "2024-02-05T08:45:00Z"
+    "title": "The rise of edge computing",
+    "content": "Edge computing is changing how we deploy and manage applications. What's your experience with it?",
+    "authorIndex": 6,
+    "subredditIndex": 2,
+    "upvotes": 423,
+    "downvotes": 23
+  },
+  {
+    "title": "5G technology deployment across Asia",
+    "content": "Asian countries lead in 5G deployment. Here's what this means for the future of connectivity.",
+    "authorIndex": 7,
+    "subredditIndex": 2,
+    "upvotes": 567,
+    "downvotes": 41
+  },
+  {
+    "title": "New study reveals benefits of meditation",
+    "content": "A recent scientific study shows significant mental health benefits from regular meditation practice.",
+    "authorIndex": 8,
+    "subredditIndex": 3,
+    "upvotes": 654,
+    "downvotes": 67
+  },
+  {
+    "title": "Gravitational waves detected again",
+    "content": "Scientists detect gravitational waves from a merger event billions of light-years away.",
+    "authorIndex": 9,
+    "subredditIndex": 3,
+    "upvotes": 523,
+    "downvotes": 12
+  },
+  {
+    "title": "New antibiotics could combat resistant bacteria",
+    "content": "Researchers develop new class of antibiotics effective against drug-resistant bacteria.",
+    "authorIndex": 1,
+    "subredditIndex": 3,
+    "upvotes": 445,
+    "downvotes": 18
+  },
+  {
+    "title": "The Elder Scrolls VI: First trailer released",
+    "content": "After years of waiting, the first official trailer for The Elder Scrolls VI has dropped. Thoughts?",
+    "authorIndex": 2,
+    "subredditIndex": 4,
+    "upvotes": 2100,
+    "downvotes": 234
+  },
+  {
+    "title": "Best gaming setup under $1500?",
+    "content": "Looking to upgrade my gaming setup with a budget of $1500. What components would you recommend?",
+    "authorIndex": 5,
+    "subredditIndex": 4,
+    "upvotes": 312,
+    "downvotes": 29
+  },
+  {
+    "title": "Game of the Year 2026 nominees",
+    "content": "This year has had some incredible game releases. Which one deserves GOTY in your opinion?",
+    "authorIndex": 3,
+    "subredditIndex": 4,
+    "upvotes": 678,
+    "downvotes": 145
+  },
+  {
+    "title": "Most underrated games you've played",
+    "content": "What are some hidden gems that don't get enough recognition? I'm looking for recommendations.",
+    "authorIndex": 6,
+    "subredditIndex": 4,
+    "upvotes": 543,
+    "downvotes": 67
+  },
+  {
+    "title": "What's your favorite skill to learn?",
+    "content": "We all have limited time. What's one skill you always wanted to learn and why?",
+    "authorIndex": 4,
+    "subredditIndex": 5,
+    "upvotes": 234,
+    "downvotes": 19
+  },
+  {
+    "title": "Most useful advice you've ever received",
+    "content": "Looking for some wisdom. What's the best advice that has genuinely changed your life?",
+    "authorIndex": 7,
+    "subredditIndex": 5,
+    "upvotes": 567,
+    "downvotes": 43
+  },
+  {
+    "title": "Any career changers here?",
+    "content": "Thinking about changing careers. Would love to hear from people who have done it successfully.",
+    "authorIndex": 8,
+    "subredditIndex": 5,
+    "upvotes": 423,
+    "downvotes": 56
+  },
+  {
+    "title": "Best productivity tips for remote work",
+    "content": "I've been working remotely for 3 years. Here are my top 5 productivity tips that actually work.",
+    "authorIndex": 9,
+    "subredditIndex": 5,
+    "upvotes": 876,
+    "downvotes": 92
+  },
+  {
+    "title": "How do you handle imposter syndrome?",
+    "content": "As a developer, I often feel like I don't know enough. How do you all deal with imposter syndrome?",
+    "authorIndex": 0,
+    "subredditIndex": 5,
+    "upvotes": 1045,
+    "downvotes": 78
   }
 ]

@@ -1,44 +1,52 @@
 [
   {
-    "_id": "64f004d4d4d4d4d4d4d4d4d4",
-    "name": "Diana",
-    "email": "diana@example.com",
-    "password": "password123",
-    "createdAt": "2024-05-09T00:00:00Z"
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "password": "hashed_password_1"
   },
   {
-    "_id": "64f005e5e5e5e5e5e5e5e5e5",
-    "name": "Ethan",
-    "email": "ethan@example.com",
-    "password": "password123",
-    "createdAt": "2023-08-21T00:00:00Z"
+    "name": "Bob Smith",
+    "email": "bob.smith@example.com",
+    "password": "hashed_password_2"
   },
   {
-    "_id": "64f006f6f6f6f6f6f6f6f6f6",
-    "name": "Fiona",
-    "email": "fiona@example.com",
-    "password": "password123",
-    "createdAt": "2024-02-17T00:00:00Z"
+    "name": "Carol White",
+    "email": "carol.white@example.com",
+    "password": "hashed_password_3"
   },
   {
-    "_id": "64f007a7a7a7a7a7a7a7a7a7",
-    "name": "George",
-    "email": "george@example.com",
-    "password": "password123",
-    "createdAt": "2025-04-11T00:00:00Z"
+    "name": "David Chen",
+    "email": "david.chen@example.com",
+    "password": "hashed_password_4"
   },
   {
-    "_id": "64f008b8b8b8b8b8b8b8b8b8",
-    "name": "Hannah",
-    "email": "hannah@example.com",
-    "password": "password123",
-    "createdAt": "2023-03-28T00:00:00Z"
+    "name": "Emma Rodriguez",
+    "email": "emma.rodriguez@example.com",
+    "password": "hashed_password_5"
   },
   {
-    "_id": "64f009c9c9c9c9c9c9c9c9c9",
-    "name": "Ian",
-    "email": "ian@example.com",
-    "password": "password123",
-    "createdAt": "2024-11-02T00:00:00Z"
+    "name": "Frank Moore",
+    "email": "frank.moore@example.com",
+    "password": "hashed_password_6"
+  },
+  {
+    "name": "Grace Lee",
+    "email": "grace.lee@example.com",
+    "password": "hashed_password_7"
+  },
+  {
+    "name": "Henry Taylor",
+    "email": "henry.taylor@example.com",
+    "password": "hashed_password_8"
+  },
+  {
+    "name": "Iris Brown",
+    "email": "iris.brown@example.com",
+    "password": "hashed_password_9"
+  },
+  {
+    "name": "Jack Davis",
+    "email": "jack.davis@example.com",
+    "password": "hashed_password_10"
   }
 ]
