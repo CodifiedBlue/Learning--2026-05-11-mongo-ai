@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "scripts": {
     "queries": "node queries.js",
-    "seed": "node scripts/seed.js"
+    "seed": "node scripts/seed.js",
+    "test:crud": "node scripts/test-crud.js"
   },
   "type": "module",
   "keywords": [],
