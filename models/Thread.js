@@ -1,6 +1,6 @@
 import mongoose from "mongoose";
 
-const ThreadSchema = new mongoose.Schema({
+const threadSchema = new mongoose.Schema({
   title: {
     type: String,
     required: true,
@@ -34,9 +34,8 @@ const ThreadSchema = new mongoose.Schema({
   createdAt: {
     type: Date,
     required: true,
+    default: Date.now,
   },
 });
 
-const Thread = mongoose.model("Thread", ThreadSchema);
-
-export default Thread;
+export default mongoose.model("Thread", threadSchema);
