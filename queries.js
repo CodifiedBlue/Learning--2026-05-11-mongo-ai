@@ -31,7 +31,11 @@ async function query4() {
   console.log("query4", users);
 }
 
-async function query5() {}
+async function query5() {
+  // Threads that have 2 or more upvotes
+  const threads = await Thread.find({ upvotes: { $gte: 2 } });
+  console.log("query5", threads);
+}
 
 async function query6() {}
 
@@ -43,9 +47,24 @@ async function query9() {}
 
 async function query10() {}
 
-async function query11() {}
+async function query11() {
+  // Retrieve the ids of all users who have posted threads,
+  // along with the number of threads they have posted
+  const result = await Thread.aggregate([
+    { $group: { _id: "$author", count: { $sum: 1 } } },
+  ]);
+  console.log("query11", result);
+}
 
-async function query12() {}
+async function query12() {
+  // Find the author ID and thread count for the user who posted the most threads
+  const result = await Thread.aggregate([
+    { $group: { _id: "$author", count: { $sum: 1 } } },
+    { $sort: { count: -1 } },
+    { $limit: 1 },
+  ]);
+  console.log("query12", result);
+}
 
 // more queries
 async function runQueries() {
@@ -54,6 +73,9 @@ async function runQueries() {
   await query2();
   await query3();
   await query4();
+  await query5();
+  await query11();
+  await query12();
 }
 
 async function main() {
